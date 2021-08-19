@@ -2,5 +2,6 @@
 # Insert new line
 # Add escape character
 # Store string in a variable
+# Concatinate a string
 phrase = "Baby Elephant"
-print(phrase)
+print(phrase + " is cool")
