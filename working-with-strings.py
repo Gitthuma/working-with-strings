@@ -4,4 +4,7 @@
 # Store string in a variable
 # Concatinate a string
 phrase = "Baby Elephant"
-print(phrase + " is cool")
+
+# use upper and lowercase functions
+print(phrase.lower())
+print(phrase.upper())
