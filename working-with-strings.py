@@ -21,4 +21,7 @@ phrase = "Baby Elephant"
 # print(phrase[0])
 
 # Getting the position of a character using index
-print(phrase.index("E"))
+# print(phrase.index("E"))
+
+# Use replace function
+print(phrase.replace("Elephant", "Giraffe"))
