@@ -1,3 +1,4 @@
 # print a string
 # Insert new line
-print("Baby\n Elephant")
+# Add escape character
+print("Baby\" Elephant")
