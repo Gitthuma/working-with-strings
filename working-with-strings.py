@@ -18,4 +18,7 @@ phrase = "Baby Elephant"
 # print(phrase.upper().isupper())
 
 # Getting a character using index
-print(phrase[0])
+# print(phrase[0])
+
+# Getting the position of a character using index
+print(phrase.index("E"))
