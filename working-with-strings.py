@@ -10,5 +10,9 @@ phrase = "Baby Elephant"
 # print(phrase.upper())
 
 # Check if string is upper or lowercase
-print(phrase.islower())
-print(phrase.isupper())
+# print(phrase.islower())
+# print(phrase.isupper())
+
+# Combining functions
+print(phrase.lower().islower())
+print(phrase.upper().isupper())
