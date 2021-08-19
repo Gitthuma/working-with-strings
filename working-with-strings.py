@@ -6,5 +6,9 @@
 phrase = "Baby Elephant"
 
 # use upper and lowercase functions
-print(phrase.lower())
-print(phrase.upper())
+# print(phrase.lower())
+# print(phrase.upper())
+
+# Check if string is upper or lowercase
+print(phrase.islower())
+print(phrase.isupper())
