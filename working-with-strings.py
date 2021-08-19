@@ -1,2 +1,3 @@
 # print a string
-print("Baby Elephant")
+# Insert new line
+print("Baby\n Elephant")
