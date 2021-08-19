@@ -14,5 +14,8 @@ phrase = "Baby Elephant"
 # print(phrase.isupper())
 
 # Combining functions
-print(phrase.lower().islower())
-print(phrase.upper().isupper())
+# print(phrase.lower().islower())
+# print(phrase.upper().isupper())
+
+# Getting a character using index
+print(phrase[0])
